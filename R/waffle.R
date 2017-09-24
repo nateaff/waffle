@@ -48,6 +48,7 @@
 #' @param use_glyph use specified FontAwesome glyph
 #' @param glyph_size size of the FontAwesome font
 #' @param legend_pos position of legend
+#' @param tile_color color of tile or glyph border
 #' @export
 #' @examples
 #' parts <- c(80, 30, 20, 10)

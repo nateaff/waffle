@@ -41,6 +41,8 @@ ggsave or knitr to control output sizes (or manually sizing the chart)}
 \item{glyph_size}{size of the FontAwesome font}
 
 \item{legend_pos}{position of legend}
+
+\item{tile_color}{color of tile or glyph border}
 }
 \description{
 Given a named vector or a data frame, this function will return a ggplot object that
